@@ -1,9 +1,8 @@
 ### Hi there 💪
 
 
-[![Goala's github stats](https://github-readme-stats.vercel.app/api?username=Goala&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Goala's github stats](https://github-readme-stats.vercel.app/api?username=Goala&show_icons=true&theme=highcontrast&count_private=true&custom_title=Github%20Action)](https://github.com/anuraghazra/github-readme-stats)
 [![Goala's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goala&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Goala/Goala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
