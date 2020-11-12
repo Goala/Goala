@@ -1,6 +1,6 @@
 ### Hi there 💪
 
-[![Goala's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goala&theme=highcontrast&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Goala's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goala&theme=highcontrast&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Goala's github stats](https://github-readme-stats.vercel.app/api?username=Goala&show_icons=true&theme=highcontrast&count_private=true&custom_title=Github%20Action&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
